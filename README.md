@@ -1,5 +1,4 @@
 # ANN-Stock-Price-Prediction
-Using ANN in Stock Price Prediction
 
 Hello there!
 
